@@ -1,0 +1,26 @@
+{
+  "name": "pcp-universe",
+  "version": "1.0.0",
+  "description": "AI exploration of the Present Containment Principle - information physics simulator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "physics",
+    "information",
+    "pcp",
+    "present-containment-principle",
+    "landauer",
+    "entropy",
+    "correlations",
+    "deepseek",
+    "simulation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
