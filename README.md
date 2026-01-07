@@ -309,50 +309,50 @@ MIT License - See LICENSE file
 
 ---
 
-## Conexiones
+## Connections
 
 <table>
 <tr>
 <td width="50%">
 
-### Si el presente contiene todo...
+### If the present contains everything...
 
-> *"El presente contiene TODA la información del pasado y futuro."*
+> *"The present contains ALL information from past and future."*
 
-Entonces cada momento de tu vida ya contenía todo lo que vendría después. ¿Libre albedrío o ilusión?
+Then every moment of your life already contained everything that would come after. Free will or illusion?
 
-**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** explora esta pregunta desde la filosofía. PCP Universe la valida con física cuántica real.
+**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** explores this question from philosophy. PCP Universe validates it with real quantum physics.
 
 </td>
 <td width="50%">
 
-### La elección de Adam
+### Adam's choice
 
-Si la información nunca se destruye, ¿la "elección" de Adam de comer el fruto ya estaba codificada en el estado inicial?
+If information is never destroyed, was Adam's "choice" to eat the fruit already encoded in the initial state?
 
-**[Genesis Simulation](https://github.com/gamogestionweb/genesis-simulation)** observa a IAs tomando decisiones "libres". PCP sugiere que esas decisiones estaban contenidas en el presente desde el principio.
+**[Genesis Simulation](https://github.com/gamogestionweb/genesis-simulation)** observes AIs making "free" decisions. PCP suggests those decisions were contained in the present from the beginning.
 
 </td>
 </tr>
 <tr>
 <td>
 
-### Las leyes ya existían
+### The laws already existed
 
-La IA de **[Physics Discovery](https://github.com/gamogestionweb/physics-discovery-ai)** "descubre" F=ma. Pero esa ley siempre estuvo ahí.
+The AI in **[Physics Discovery](https://github.com/gamogestionweb/physics-discovery-ai)** "discovers" F=ma. But that law was always there.
 
-PCP dice lo mismo: el futuro ya está contenido en el presente. Descubrirlo es solo hacer visible lo que siempre existió.
+PCP says the same: the future is already contained in the present. Discovering it is just making visible what always existed.
 
 </td>
 <td>
 
-### El Día 30
+### Day 30
 
-> *"Hoy tuve un pensamiento malo... Eso no va a pasar."*
+> *"Today I had a bad thought... That's not going to happen."*
 
-En **[100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)**, Abel elige vivir. Si PCP es correcto, esa elección ya estaba contenida en el momento de nacer.
+In **[100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)**, Abel chooses to live. If PCP is correct, that choice was already contained in the moment of birth.
 
-Pero sentir que elegimos... eso es lo que nos hace humanos.
+But feeling that we choose... that's what makes us human.
 
 </td>
 </tr>
