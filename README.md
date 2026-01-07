@@ -309,6 +309,57 @@ MIT License - See LICENSE file
 
 ---
 
+## Conexiones
+
+<table>
+<tr>
+<td width="50%">
+
+### Si el presente contiene todo...
+
+> *"El presente contiene TODA la información del pasado y futuro."*
+
+Entonces cada momento de tu vida ya contenía todo lo que vendría después. ¿Libre albedrío o ilusión?
+
+**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** explora esta pregunta desde la filosofía. PCP Universe la valida con física cuántica real.
+
+</td>
+<td width="50%">
+
+### La elección de Adam
+
+Si la información nunca se destruye, ¿la "elección" de Adam de comer el fruto ya estaba codificada en el estado inicial?
+
+**[Genesis Simulation](https://github.com/gamogestionweb/genesis-simulation)** observa a IAs tomando decisiones "libres". PCP sugiere que esas decisiones estaban contenidas en el presente desde el principio.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Las leyes ya existían
+
+La IA de **[Physics Discovery](https://github.com/gamogestionweb/physics-discovery-ai)** "descubre" F=ma. Pero esa ley siempre estuvo ahí.
+
+PCP dice lo mismo: el futuro ya está contenido en el presente. Descubrirlo es solo hacer visible lo que siempre existió.
+
+</td>
+<td>
+
+### El Día 30
+
+> *"Hoy tuve un pensamiento malo... Eso no va a pasar."*
+
+En **[100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)**, Abel elige vivir. Si PCP es correcto, esa elección ya estaba contenida en el momento de nacer.
+
+Pero sentir que elegimos... eso es lo que nos hace humanos.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Acknowledgments
 
 - **IBM Quantum**: For providing access to real quantum hardware
